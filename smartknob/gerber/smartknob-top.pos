@@ -1,0 +1,26 @@
+### Footprint positions - created on 2024-05-05T20:25:22+0200 ###
+### Printed by KiCad version 8.0.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                               Package                                           PosX       PosY       Rot  Side
+C1        100nF                             C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   103.2000   -79.2000   90.0000  top
+C2        4.7uF50V                          C_0805_2012Metric_Pad1.18x1.45mm_HandSolder    97.0000   -78.2000  -90.0000  top
+C4        100nF                             C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   102.0000   -72.4000    0.0000  top
+C6        100nF                             C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   129.6000   -73.8000   90.0000  top
+C7        100nF                             C_0805_2012Metric_Pad1.18x1.45mm_HandSolder    97.0000   -82.2000  -90.0000  top
+J4        Conn_01x04_Pin                    PinHeader_1x04_P2.54mm_Vertical               134.2000   -75.3200  180.0000  top
+R1        10K                               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   102.8000   -75.4000   90.0000  top
+R4        10k                               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    99.8500   -79.6000  180.0000  top
+R5        5k11                              R_0805_2012Metric                             109.2125   -93.5000    0.0000  top
+R6        5k11                              R_0805_2012Metric                             123.2000   -93.0000   90.0000  top
+R7        0R                                R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   108.0000   -91.4000    0.0000  top
+R8        0R                                R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   108.8000   -95.4000  180.0000  top
+R9        10K                               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   128.0000   -88.3000    0.0000  top
+R19       0R                                R_0805_2012Metric                             124.8000   -87.3000  -90.0000  top
+TP1       BaerLogo                          baerklein                                     118.3000   -67.2000    0.0000  top
+U1        ESP32-S3-WROOM-1-Espressif        ESP32-S3-WROOM-1                              114.0000   -76.7500    0.0000  top
+U2        RT9013                            SOT-23-5                                      100.0000   -76.4000   90.0000  top
+U3        KoreanHropartsElecTYPE-C-31-M-12  USB-C_SMD-TYPE-C-31-M-12                      116.7500   -94.2115    0.0000  top
+U7        ~                                 WQFN-20-1EP_3x3mm_P0.4mm_EP1.7x1.7mm          100.6000   -85.1375  180.0000  top
+U9        GC9A01_IPS_display                GC9A01_IPS_display_reversed                   130.0500   -81.7500  -90.0000  top
+## End
